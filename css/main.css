@@ -1,0 +1,21 @@
+
+/********************
+    Text Editor
+**********************/
+/********************
+  Inputs and Buttons
+**********************/
+
+.container{
+    text-align: center;
+}
+
+#search{
+    height:100px;
+}
+#searchText, {
+    font-size: 2em;
+}
+#results{
+    font-size: 2em;
+}
